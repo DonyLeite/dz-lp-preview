@@ -1,0 +1,10 @@
+{
+  "name": "DZ Marketing Digital",
+  "short_name": "DZ",
+  "description": "Tráfego, automação comercial e Inteligência Artificial para empresas. Atuação desde 2000.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#0A0A0A",
+  "icons": []
+}
